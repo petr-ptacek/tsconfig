@@ -5,6 +5,8 @@
 
 
 ```shell
+npm version major -m "Upgrade to %s"
+npm version minor -m "Upgrade to %s"
 npm version patch -m "Upgrade to %s"
 npm publish --access public
 ```
