@@ -11,3 +11,7 @@ Add to your tsconfig.json
 ```json
 "extends": "@petr-ptacek/tsconfig/tsconfig.json"
 ```
+
+```json
+"extends": "@petr-ptacek/tsconfig/tsconfig.es6.json"
+```
