@@ -12,9 +12,6 @@
 	"keywords": [
 		"tsconfig"
 	],
-	"files": [
-		"*"
-	],
 	"type": "module",
 	"license": "MIT",
 	"description": "Predefined ts config to TS."
