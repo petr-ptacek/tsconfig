@@ -1,0 +1,21 @@
+{
+	"name": "@petr-ptacek/tsconfig",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/petr-ptacek/tsconfig.git"
+	},
+	"author": {
+		"name": "Petr Ptáček",
+		"email": "petr.ptacek99@gmail.com"
+	},
+	"keywords": [
+		"tsconfig"
+	],
+	"files": [
+		"*"
+	],
+	"type": "module",
+	"license": "MIT",
+	"description": "Predefined ts config to TS."
+}
