@@ -1,6 +1,6 @@
 {
 	"name": "@petr-ptacek/tsconfig",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/petr-ptacek/tsconfig.git"
@@ -12,7 +12,13 @@
 	"keywords": [
 		"tsconfig"
 	],
+	"scripts": {
+		"relase": "changeset publish"
+	},
 	"type": "module",
 	"license": "MIT",
-	"description": "Predefined ts config to TS."
+	"description": "Predefined ts config to TS.",
+	"devDependencies": {
+		"@changesets/cli": "^2.26.2"
+	}
 }
