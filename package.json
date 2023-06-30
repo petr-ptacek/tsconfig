@@ -17,7 +17,7 @@
 	},
 	"type": "module",
 	"license": "MIT",
-	"description": "Predefined ts config to TS.",
+	"description": "Predefined tsconfig.json to usage in the project using TypeScript.",
 	"devDependencies": {
 		"@changesets/cli": "^2.26.2"
 	}
