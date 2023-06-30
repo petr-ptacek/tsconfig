@@ -1,5 +1,11 @@
 # @petr-ptacek/tsconfig
 
+## 0.0.4
+
+### Patch Changes
+
+- update README.md
+
 ## 0.0.3
 
 ### Patch Changes
