@@ -2,6 +2,16 @@
 	"$schema": "https://json.schemastore.org/tsconfig",
 	"compilerOptions": {
 		"strict": true,
+		/*This is strict list flags*/
+		"alwaysStrict": true,
+		"strictNullChecks": true,
+		"strictBindCallApply": true,
+		"strictFunctionTypes": true,
+		"strictPropertyInitialization": true,
+		"noImplicitAny": true,
+		"noImplicitThis": true,
+		"useUnknownInCatchVariables": true,
+		/*Others flags*/
 		"noUnusedParameters": true,
 		"noUnusedLocals": true,
 		"noUncheckedIndexedAccess": true,
