@@ -1,5 +1,9 @@
 # @petr-ptacek/tsconfig
 
+## 1.0.0
+
+- make the major version
+
 ## 0.0.4
 
 ### Patch Changes
